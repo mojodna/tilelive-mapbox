@@ -4,7 +4,7 @@ var url = require("url"),
     util = require("util");
 
 var HttpSource = require("tilelive-http"),
-    TileJSON = require("TileJSON");
+    TileJSON = require("tilejson");
 
 var MapBoxSource = function(uri, callback) {
   uri = url.parse(uri);
