@@ -31,4 +31,6 @@ MapBoxSource.registerProtocols = function(tilelive) {
   tilelive.protocols["mapbox:"] = this;
 };
 
-module.exports = MapBoxSource;
+module.exports = function(tilelive, options) {
+  return MapBoxSource;
+};
