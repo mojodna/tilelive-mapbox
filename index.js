@@ -32,5 +32,7 @@ MapBoxSource.registerProtocols = function(tilelive) {
 };
 
 module.exports = function(tilelive, options) {
+  MapBoxSource.registerProtocols(tilelive);
+
   return MapBoxSource;
 };
