@@ -4,8 +4,8 @@
   "description": "A tilelive.js source for mapbox:// URIs",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
   "license": "BSD-2-Clause",
-  "dependencies": {
-    "tilejson": "~0.6.0",
-    "tilelive-http": "https://github.com/mojodna/tilelive-http/tarball/master"
+  "peerDependencies": {
+    "tilelive": "^4.5.3",
+    "tilejson": "mojodna/node-tilejson#integration"
   }
 }
