@@ -6,6 +6,6 @@
   "license": "BSD-2-Clause",
   "peerDependencies": {
     "tilelive": "^4.5.3",
-    "tilejson": "mojodna/node-tilejson#integration"
+    "tilejson": "^0.6.4"
   }
 }

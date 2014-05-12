@@ -1,5 +1,9 @@
 # Changes
 
+## v0.2.1 - 5/11/14
+
+* Depend on `tilejson@^0.6.4`, as upstream has picked up the protocol change.
+
 ## v0.2.0 - 5/8/14
 
 * Remove `tilelive-http` from dependencies
