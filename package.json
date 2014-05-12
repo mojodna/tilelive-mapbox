@@ -1,6 +1,6 @@
 {
   "name": "tilelive-mapbox",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A tilelive.js source for mapbox:// URIs",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
   "license": "BSD-2-Clause",
