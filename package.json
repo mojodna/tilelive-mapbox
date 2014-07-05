@@ -3,6 +3,10 @@
   "version": "0.2.1",
   "description": "A tilelive.js source for mapbox:// URIs",
   "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojodna/tilelive-mapbox.git"
+  },
   "license": "BSD-2-Clause",
   "peerDependencies": {
     "tilelive": "^4.5.3",
