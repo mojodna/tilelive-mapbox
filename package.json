@@ -9,7 +9,7 @@
   },
   "license": "BSD-2-Clause",
   "peerDependencies": {
-    "tilelive": "^4.5.3",
+    "tilelive": "*",
     "tilejson": "^0.8.0"
   }
 }

@@ -1,5 +1,9 @@
 # Changes
 
+## v0.3.1 - 7/5/14
+
+* Relax `tilelive` peer dependency.
+
 ## v0.3.0 - 7/5/14
 
 * Update `tilejson` dependency to `^0.8.0'.
