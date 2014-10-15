@@ -1,5 +1,10 @@
 # Changes
 
+## v0.4.0 - 10/14/14
+
+* Use Mapbox API v4
+* Relax `tilejson` peer dependency.
+
 ## v0.3.1 - 7/5/14
 
 * Relax `tilelive` peer dependency.
