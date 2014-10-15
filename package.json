@@ -10,6 +10,6 @@
   "license": "BSD-2-Clause",
   "peerDependencies": {
     "tilelive": "*",
-    "tilejson": "^0.8.0"
+    "tilejson": ">= 0.6.4"
   }
 }
