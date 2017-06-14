@@ -1,5 +1,9 @@
 # Changes
 
+## v0.5.0 - 6/13/17
+
+* Update peer dependencies to refer to `@mapbox`-scoped packages.
+
 ## v0.4.0 - 10/14/14
 
 * Use Mapbox API v4
