@@ -15,7 +15,7 @@
 
 ## v0.3.0 - 7/5/14
 
-* Update `tilejson` dependency to `^0.8.0'.
+* Update `tilejson` dependency to `^0.8.0`.
 
 ## v0.2.1 - 5/11/14
 
